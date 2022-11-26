@@ -1,2 +1,1 @@
-# solutions
-my solutions to rustlings
+check the [rustlings repo](https://github.com/rust-lang/rustlings)
